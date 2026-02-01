@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(20, 20, 20);
+
+}
 .header_outer_container{
     width: 100%;
     position: sticky;
@@ -7,7 +11,7 @@
     align-items: center;
     /* background-color: rgb(148, 132, 132); */
     background-color: rgb(20, 20, 20);
-    /* background-color:  transparent; */
+    background-color:  transparent;
     height: 10vh;
     color: aliceblue;
     transition: all 0.5s;
@@ -25,7 +29,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     
 
 }
@@ -35,7 +39,7 @@
  align-items: center;
  list-style: none;
  cursor: pointer;
- border: 2px solid red;
+ /* border: 2px solid red; */
 
 
 }

@@ -22,10 +22,10 @@ function Header() {
           </div>
           <div className="header_right">
                <ul>
-                <li><i class="fa-solid fa-magnifying-glass"></i></li>
-                <li><i class="fa-solid fa-bell"></i></li>
-                <li><i class="fa-solid fa-user-circle"></i></li>
-                <li><i class="fa-solid fa-caret-down"></i></li>
+                <li><i className="fa-solid fa-magnifying-glass"></i></li>
+                <li><i className="fa-solid fa-bell"></i></li>
+                <li><i className="fa-solid fa-user-circle"></i></li>
+                <li><i className="fa-solid fa-caret-down"></i></li>
                
                </ul>
           </div>
